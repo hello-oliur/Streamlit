@@ -1,0 +1,20 @@
+Food,Category,Price (BDT/kg),kcal/100g,Protein g/100g,Max g/person/day,Tags
+Milk,Dairy,80.0,61.0,3.2,250.0,calcium|protein
+Soybean oil,Fat,160.0,884.0,0.0,30.0,energy
+Banana,Fruit,60.0,89.0,1.1,150.0,energy|local
+Guava,Fruit,70.0,68.0,2.6,150.0,vitaminC|local
+Papaya,Fruit,40.0,43.0,0.5,200.0,vitaminA|vitaminC|local
+Chicken,Protein,230.0,215.0,20.0,100.0,protein|iron
+Eggs,Protein,170.0,143.0,12.6,100.0,protein|vitaminA|iron|local
+Small fish,Protein,300.0,120.0,18.0,150.0,protein|iron|calcium|vitaminA|local
+Chickpeas,Pulse,130.0,364.0,19.0,80.0,protein|iron
+Lentils (dal),Pulse,140.0,350.0,25.0,100.0,protein|iron|local
+Peanuts,Pulse,160.0,567.0,26.0,40.0,energy|protein
+Potato,Staple,40.0,77.0,2.0,300.0,energy|local|vitaminC
+Rice,Staple,60.0,360.0,7.0,400.0,energy|local
+Whole wheat flour (atta),Staple,55.0,340.0,12.0,150.0,energy|protein
+Brinjal (eggplant),Vegetable,50.0,25.0,1.0,200.0,local
+Pumpkin,Vegetable,35.0,26.0,1.0,200.0,vitaminA|local
+Red amaranth (lal shak),Vegetable,25.0,23.0,2.5,200.0,iron|vitaminA|local
+Spinach (palong shak),Vegetable,30.0,23.0,2.9,200.0,iron|vitaminA|local
+Tomato,Vegetable,60.0,18.0,0.9,150.0,vitaminC
