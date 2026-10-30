@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+fpdf2
+scikit-learn
+xgboost
+shap
+joblib
